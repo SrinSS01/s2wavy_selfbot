@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SrinSS01/fiverr_s2wavy_selfbot_webapp.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SrinSS01/fiverr_s2wavy_SelfBotGo.git
